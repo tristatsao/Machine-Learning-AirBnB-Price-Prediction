@@ -11,3 +11,5 @@ After selecting the variables, we have separated 80% of the data into training d
 
 Step 3: Results
 By comeparing the R squared and RMSE,  our best prediction model comes from Gradient Boost model, which got highest R squared :0.64 and lowest RMSE 4.16 in testing sample.
+
+Tool: R
